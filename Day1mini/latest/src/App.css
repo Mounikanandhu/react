@@ -1,0 +1,24 @@
+.container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.box {
+  border: 1px solid gray;
+  padding: 15px;
+  margin-bottom: 20px;
+  width: 300px;
+}
+
+.title {
+  color: green;
+}
+
+button {
+  padding: 5px 10px;
+}
+
+.hobby-list {
+  list-style-type: square;
+  padding-left: 20px;
+}
