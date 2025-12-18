@@ -1,0 +1,28 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.app {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.box {
+  margin-top: 20px;
+  padding: 15px;
+  border: 1px solid #ccc;
+  width: 250px;
+}
+
+button {
+  padding: 5px 10px;
+  margin-bottom: 10px;
+}
+
+.hello-text {
+  font-size: 18px;
+  color: green;
+}
